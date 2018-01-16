@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.spring.framework: ERROR
+    com.igoryan.cache: DEBUG

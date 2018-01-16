@@ -1,0 +1,1 @@
+run with following command: mvn spring-boot:run -pl application
